@@ -1,2 +1,2 @@
 # myfirsttest
-i created my first app 
+PGSSLMODE=require DATABASE_URL=postgres://foo:bar@asdf.com:5432/1234 npm start
